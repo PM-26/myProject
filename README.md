@@ -1,2 +1,2 @@
 # myProject
-This is myProjects website.
+This is myProject's website.
