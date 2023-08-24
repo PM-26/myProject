@@ -1,0 +1,26 @@
+*{
+    cursor: none;
+}
+body{
+    background-image:url(https://source.unsplash.com/random);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#cursor{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 50%;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+    z-index: 999;
+    /* cursor: none; */
+}
+
+
+#main {
+
+position: relative;
+
+}
